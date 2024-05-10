@@ -42,5 +42,6 @@ Feature: Syntax API workflow for HRMS
      Given a request is prepared for updating the existing employee details
      When a PUT call is made to update the employee
      Then the status code for creating an employee should be 200
+	THEN THEN THEN THEN
 
 
